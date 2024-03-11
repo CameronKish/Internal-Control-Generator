@@ -1,2 +1,4 @@
-# Internal-Control-Generator
-The goal of this project is to combine different ideas and concepts from previous projects into one cohesive product that will write internal controls from scratch.
+# Internal-Control-Generator (under production)
+Setting up a SOX compliant internal conrol environment has been historically very challenging and requires a large amount of expertise for businesses. Large public companies and pre-ipo businesses alike struggle with documenting and implementing internal controls. This project aims to give businesses an expert AI assistant that will help with docuemnting these complex controls with a simple interface. Additionally, this technology will leverage AI to allow users to ask questions about their current internal control environment so even newly hired employees can properly document processes they are responsible for. 
+
+This application will combine different ideas and concepts from previous projects into one cohesive product that will write internal controls from scratch with future iterations providing additional functionality. This project combines not only a comprehensive understanding cutting edge AI technologies, but a deep knowledge base of how companies use and implement internal controls for their businesses.

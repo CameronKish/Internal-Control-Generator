@@ -1,4 +1,8 @@
 # Internal-Control-Generator (under production)
-Setting up a SOX compliant internal conrol environment has been historically very challenging and requires a large amount of expertise for businesses. Large public companies and pre-ipo businesses alike struggle with documenting and implementing internal controls. This project aims to give businesses an expert AI assistant that will help with docuemnting these complex controls with a simple interface. Additionally, this technology will leverage AI to allow users to ask questions about their current internal control environment so even newly hired employees can properly document processes they are responsible for. 
+Setting up a SOX compliant internal conrol environment is very challenging and requires a large amount of business expertise. Large public companies and pre-ipo businesses alike struggle with documenting and implementing internal controls. This project aims to give businesses an expert AI assistant that will help with docuemnting these complex controls with a simple interface. Additionally, this technology will leverage AI to allow users to ask questions about their current internal control environment so even newly hired employees can properly document processes they are responsible for. 
 
-This application will combine different ideas and concepts from previous projects into one cohesive product that will write internal controls from scratch with future iterations providing additional functionality. This project combines not only a comprehensive understanding cutting edge AI technologies, but a deep knowledge base of how companies use and implement internal controls for their businesses.
+**Steps to build this project:**
+- Utilize python speech to text and custom control form as input for private Ollama model (Llama2/Mistral)
+- Embed text conversation and control form inputs into SQLite database via ChromaDB
+- Define functions to super-prompt LLM with SOX compliant control attribute templates
+- Design user interface via PySide6
